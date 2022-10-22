@@ -2,7 +2,7 @@
 # for more information about component CMakeLists.txt files.
 
 idf_component_register(
-    SRCS "source/Wifi.c" "source/IWifi.c"
-    INCLUDE_DIRS header
+    SRCS "Wifi.c" "IWifi.c"
+    INCLUDE_DIRS "include"
     REQUIRES nvs_flash
 )

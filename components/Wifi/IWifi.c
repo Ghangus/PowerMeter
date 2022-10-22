@@ -6,8 +6,7 @@
  */
 
 /* INCLUDE FILES */
-#include "Wifi.h"
-#include "IWifi.h"
+#include "include/IWifi.h"
 
 void IWifi_fast_scan(void)
 {
