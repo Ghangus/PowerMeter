@@ -3,5 +3,5 @@
 
 idf_component_register(
     SRCS main.c        
-    REQUIRES Wifi HTTP_Client UDP_Client GPIO
+    REQUIRES Wifi HTTP_Client UDP_Client GPIO SleepManager
 )

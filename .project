@@ -19,6 +19,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>esp_idf_components/main.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/main/main.c</location>
+		</link>
+		<link>
 			<name>esp_idf_components/app_trace/app_trace.c</name>
 			<type>1</type>
 			<location>E:/Espressif/frameworks/esp-idf-v4.4.2/components/app_trace/app_trace.c</location>
@@ -67,6 +72,16 @@
 			<name>esp_idf_components/cxx/cxx_guards.cpp</name>
 			<type>1</type>
 			<location>E:/Espressif/frameworks/esp-idf-v4.4.2/components/cxx/cxx_guards.cpp</location>
+		</link>
+		<link>
+			<name>esp_idf_components/d/project_elf_src_esp32.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/build/project_elf_src_esp32.c</location>
+		</link>
+		<link>
+			<name>esp_idf_components/d/x509_crt_bundle.S</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/build/x509_crt_bundle.S</location>
 		</link>
 		<link>
 			<name>esp_idf_components/driver/adc.c</name>
@@ -1922,6 +1937,31 @@
 			<name>esp_idf_components/nvs_flash/src/nvs_types.cpp</name>
 			<type>1</type>
 			<location>E:/Espressif/frameworks/esp-idf-v4.4.2/components/nvs_flash/src/nvs_types.cpp</location>
+		</link>
+		<link>
+			<name>esp_idf_components/onents/GPIO/GPIO.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/components/GPIO/GPIO.c</location>
+		</link>
+		<link>
+			<name>esp_idf_components/onents/HTTP_Client/HTTP_Client.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/components/HTTP_Client/HTTP_Client.c</location>
+		</link>
+		<link>
+			<name>esp_idf_components/onents/UDP_Client/UDP_Client.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/components/UDP_Client/UDP_Client.c</location>
+		</link>
+		<link>
+			<name>esp_idf_components/onents/Wifi/IWifi.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/components/Wifi/IWifi.c</location>
+		</link>
+		<link>
+			<name>esp_idf_components/onents/Wifi/Wifi.c</name>
+			<type>1</type>
+			<location>E:/Git/EclipseWorkspace/PowerMeter/components/Wifi/Wifi.c</location>
 		</link>
 		<link>
 			<name>esp_idf_components/openssl/library/ssl_bio.c</name>
